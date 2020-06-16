@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8)
-project(testPhaseUnwrap)
+project(resize_demo)
 #SET(CMAKE_VERBOSE_MAKEFILE on)
 SET(CMAKE_CXX_COMPILER "g++")
 SET(CMAKE_C_COMPILER "gcc")
